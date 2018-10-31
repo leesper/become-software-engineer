@@ -644,4 +644,5 @@ func ExampleReverse() {
 以上，就是我对邹欣老师32万字巨著《构建之法》的总结和整理，只提炼和抽取了精华部分，感兴趣的一定要去读原著。
 
 ## 五. 参考文献
-1. [The product backlog: your ultimate to-do list](https://www.atlassian.com/agile/scrum/backlogs)
+1. [构建之法——现代软件工程](https://www.amazon.cn/dp/B011LPUAYI/ref=sr_1_3?ie=UTF8&qid=1540958657&sr=8-3&keywords=%E6%9E%84%E5%BB%BA%E4%B9%8B%E6%B3%95)
+2. [The product backlog: your ultimate to-do list](https://www.atlassian.com/agile/scrum/backlogs)
